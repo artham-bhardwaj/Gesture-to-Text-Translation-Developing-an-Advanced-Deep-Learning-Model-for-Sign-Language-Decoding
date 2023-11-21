@@ -1,0 +1,2 @@
+# Gesture-to-Text-Translation-Developing-an-Advanced-Deep-Learning-Model-for-Sign-Language-Decoding
+Real-time Sign Language to Text Translation with CNN: This project employs Convolutional Neural Networks (CNN) to seamlessly convert live sign language gestures into text. Integrated with a Python GUI for dynamic input, the system ensures swift and accurate translation, facilitating efficient communication for individuals with hearing impairments.
