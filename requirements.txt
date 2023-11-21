@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Specify the version of Python
+python==3.X
+
+# Add your project-specific dependencies
+# Example:
+numpy==1.21.2
+tensorflow==2.6.0
+opencv-python==4.5.3
+[any_other_library]==[version_number]
